@@ -54,7 +54,7 @@ Instagram: @far_from_home__
 https://github.com/yapyap2/StravaRefactoring
 
 ### 운동 SNS ‘Strava’의 API를 활용한 스포츠 데이터 시각화 서비스.
-
+- 반갑습니다.
 - 외부 API(Strava, Kako Local) 호출
 - 사용자의 GPS 경로 데이터를 위도, 경도 좌표로 디코딩
 - 좌표에 대한 주소 검색시 ExecutorService를 사용한 멀티 스레드 병렬처리를 도입하여 싱글 스레드 대비 처리속도 1/3 수준으로 경감
